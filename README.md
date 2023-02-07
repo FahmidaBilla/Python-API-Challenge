@@ -49,7 +49,15 @@ Part 2: VacationPy
 
 3. Used Geoapify API to find the first hotel for each city located within 10,000 meters of city coordinates.
 
+
+
+<img width="1023" alt="Screenshot 2023-02-07 at 5 57 24 PM" src="https://user-images.githubusercontent.com/120361200/217386177-1389ad98-2cea-4daa-80f1-053157d4ed7b.png">
+
+
+
 Plotted the hotels on the map with each pin containing the Hotel Name, City, and Country.
 
+
+<img width="1046" alt="Screenshot 2023-02-07 at 5 58 01 PM" src="https://user-images.githubusercontent.com/120361200/217386211-c38ccaf3-e84a-4dec-b0bb-63081a019d15.png">
 
 
