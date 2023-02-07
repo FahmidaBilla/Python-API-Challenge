@@ -25,15 +25,14 @@ In the first par, we created a Python script to visualize the weather of over 50
 The sctter plot between Lattitude and Temperature showed a significant relationship between the two factors. As we move away from Equator the temperature drops. Scatter plots between the other factors with Latitude did not show any significant relationship.
 
 
-Screenshot 2023-02-07 at 5.25.12 PM.png
-
+![image](https://user-images.githubusercontent.com/120361200/217385173-3fea5748-f6dd-4c26-8736-1cbc1d410561.png)
 
 
 The regression analysis between Northern Hemisphere Temp and Latitude showed, as some cities in the southern hemisphere move closer to the equator, temperatures rises.This proves a slight positive correlation between latitude and temperature in the southern hemisphere.
 The regression line only explains 22% of the variability in the data.
 
 
-Screenshot 2023-02-07 at 5.47.50 PM.png
+ <img width="439" alt="Screenshot 2023-02-07 at 5 47 50 PM" src="https://user-images.githubusercontent.com/120361200/217385152-51f03576-9bc5-49c3-8175-5c71b089dbff.png">
 
 
 
